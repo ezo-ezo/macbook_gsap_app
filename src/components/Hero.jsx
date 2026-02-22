@@ -10,7 +10,7 @@ useEffect(() => {
 
   return (
     <section id="hero">
-        <div>
+        <div className=''>
             <h1>MacBook Pro</h1>
             <img src='/title.png' alt='MackBook Title' />
         </div>
